@@ -1,0 +1,13 @@
+# Langchain Core
+langchain
+langchain-core
+langchain-community
+
+# GROQ (LLM)
+langchain-groq
+
+# UI
+streamlit
+
+# Environment Variable
+python-dotenv
